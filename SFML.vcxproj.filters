@@ -29,7 +29,22 @@
     <ClInclude Include="Bullet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Enamy.h">
+    <ClInclude Include="EnemyM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyXL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BananaItem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

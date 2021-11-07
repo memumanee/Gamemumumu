@@ -1,0 +1,82 @@
+﻿'SFMLtemp.exe' (Win32): Loaded 'C:\Users\Zaak\OneDrive\เดสก์ท็อป\SFMLtemplate-master\x64\Debug\SFMLtemp.exe'. Symbols loaded.
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Users\Zaak\OneDrive\เดสก์ท็อป\SFMLtemplate-master\sfml-graphics-d-2.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Users\Zaak\OneDrive\เดสก์ท็อป\SFMLtemplate-master\sfml-window-d-2.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Users\Zaak\OneDrive\เดสก์ท็อป\SFMLtemplate-master\sfml-system-d-2.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x3920 has exited with code 0 (0x0).
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\AppXDeploymentClient.dll'. 
+'SFMLtemp.exe' (Win32): Unloaded 'C:\Windows\System32\AppXDeploymentClient.dll'
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvaoi.inf_amd64_fc93bf914333ced2\nvoglv64.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\wtsapi32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+The thread 0x3090 has exited with code 0 (0x0).
+The thread 0x381c has exited with code 0 (0x0).
+The thread 0x16c0 has exited with code 0 (0x0).
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\nvspcap64.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\winsta.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'SFMLtemp.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+The thread 0x2208 has exited with code 0 (0x0).
+The thread 0x1670 has exited with code 0 (0x0).
+The thread 0xd5c has exited with code 0 (0x0).
+The thread 0x36f4 has exited with code 0 (0x0).
+The thread 0x63c has exited with code 0 (0x0).
+The thread 0x3234 has exited with code 0 (0x0).
+The thread 0x96c has exited with code 0 (0x0).
+The thread 0xd4 has exited with code 0 (0x0).
+The thread 0x1510 has exited with code 0 (0x0).
+The thread 0x1908 has exited with code 0 (0x0).
+The program '[11200] SFMLtemp.exe' has exited with code 0 (0x0).

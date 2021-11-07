@@ -151,7 +151,12 @@
   <ItemGroup>
     <ClInclude Include="Allheader.h" />
     <ClInclude Include="Bullet.h" />
-    <ClInclude Include="Enamy.h" />
+    <ClInclude Include="Collider.h" />
+    <ClInclude Include="EnemyM.h" />
+    <ClInclude Include="EnemyS.h" />
+    <ClInclude Include="EnemyL.h" />
+    <ClInclude Include="EnemyXL.h" />
+    <ClInclude Include="BananaItem.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
